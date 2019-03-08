@@ -12,7 +12,7 @@
 	<description>Spring Boot Atmosphere Sample</description>
 	<url>http://projects.spring.io/spring-boot/</url>
 	<organization>
-		<name>Pivotal Software, Inc.</name>
+		<name>Orange Services</name>
 		<url>http://www.spring.io</url>
 	</organization>
 	<properties>
@@ -49,6 +49,7 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+
 	<build>
 		<plugins>
 			<plugin>
